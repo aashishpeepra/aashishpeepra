@@ -1,7 +1,7 @@
 
 # Hello 👋
 
-I've <b>four plus years of experience</b> in IT and software development. <b>100K plus users</b> have benefited from the websites I created. <b>28K plus </b> people learned programming from the courses I published on Udemy. 
+I've <b>sevel plus years of experience</b> in IT and software development. <b>100K plus users</b> have benefited from the websites I created. <b>28K plus </b> people learned programming from the courses I published on Udemy. 
 
 My CS fundamentals are solid. Developing software and helping people with them is my passion. I've been coding for years, and my experience and dedication set me apart. I'm in my final year of Bachelor of Technology from Pranveer Singh institute of technology, Kanpur, India.
 
